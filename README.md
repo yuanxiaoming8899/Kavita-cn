@@ -1,118 +1,117 @@
-﻿# [<img src="/Logo/kavita.svg" width="32" alt="">]() Kavita
-<div align="center">
-
-![new_github_preview_stills](https://user-images.githubusercontent.com/735851/169657008-37812c18-5490-4e2a-9dcb-4806f8c87c69.gif)
-
-Kavita is a fast, feature rich, cross platform reading server. Built with a focus for being a full solution for all your reading needs. Setup your own server and share
-your reading collection with your friends and family!
-
-[![Release](https://img.shields.io/github/release/Kareadita/Kavita.svg?style=flat&maxAge=3600)](https://github.com/Kareadita/Kavita/releases)
-[![License](https://img.shields.io/badge/license-GPLv3-blue.svg?style=flat)](https://github.com/Kareadita/Kavita/blob/master/LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/Kareadita/Kavita/total.svg?style=flat)](https://github.com/Kareadita/Kavita/releases)
-[![Docker Pulls](https://img.shields.io/docker/pulls/jvmilazz0/kavita.svg)](https://hub.docker.com/r/jvmilazz0/kavita)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Kareadita_Kavita&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=Kareadita_Kavita)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Kareadita_Kavita&metric=security_rating)](https://sonarcloud.io/dashboard?id=Kareadita_Kavita)
-[![Backers on Open Collective](https://opencollective.com/kavita/backers/badge.svg)](#backers)
-[![Sponsors on Open Collective](https://opencollective.com/kavita/sponsors/badge.svg)](#sponsors)
-<a href="https://hosted.weblate.org/engage/kavita/">
-<img src="https://hosted.weblate.org/widgets/kavita/-/ui/svg-badge.svg" alt="Translation status" />
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><h1 tabindex="-1" dir="auto"><a id="user-content--kavita" class="anchor" aria-hidden="true" tabindex="-1" href="#-kavita"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="/Kareadita/Kavita/blob/develop"><img src="/Kareadita/Kavita/raw/develop/Logo/kavita.svg" width="32" alt="" style="max-width: 100%;"></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">卡维塔</font></font></h1>
+<div align="center" dir="auto">
+<p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/735851/169657008-37812c18-5490-4e2a-9dcb-4806f8c87c69.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/735851/169657008-37812c18-5490-4e2a-9dcb-4806f8c87c69.gif" alt="new_github_preview_stills" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/735851/169657008-37812c18-5490-4e2a-9dcb-4806f8c87c69.gif" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="new_github_preview_stills" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/735851/169657008-37812c18-5490-4e2a-9dcb-4806f8c87c69.gif" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="475"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="播放 new_github_preview_stills" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="播放 new_github_preview_stills">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="在新窗口中打开 new_github_preview_stills" class="AnimatedImagePlayer-button" href="https://user-images.githubusercontent.com/735851/169657008-37812c18-5490-4e2a-9dcb-4806f8c87c69.gif" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kavita 是一个快速、功能丰富的跨平台阅读服务器。</font><font style="vertical-align: inherit;">致力于成为满足您所有阅读需求的完整解决方案。</font><font style="vertical-align: inherit;">设置您自己的服务器并与您的朋友和家人分享您的阅读收藏！</font></font></p>
+<p dir="auto"><a href="https://github.com/Kareadita/Kavita/releases"><img src="https://camo.githubusercontent.com/d7be96a3795df41d6101278482462078bdd1f315fa3fade2fc1346d4d973d539/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f72656c656173652f4b61726561646974612f4b61766974612e7376673f7374796c653d666c6174266d61784167653d33363030" alt="发布" data-canonical-src="https://img.shields.io/github/release/Kareadita/Kavita.svg?style=flat&amp;maxAge=3600" style="max-width: 100%;"></a>
+<a href="https://github.com/Kareadita/Kavita/blob/master/LICENSE"><img src="https://camo.githubusercontent.com/3fdabe662cc2dc8e7270d351060b40e720b1b0fc172cab44e8aa623d77f2d4e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d47504c76332d626c75652e7376673f7374796c653d666c6174" alt="执照" data-canonical-src="https://img.shields.io/badge/license-GPLv3-blue.svg?style=flat" style="max-width: 100%;"></a>
+<a href="https://github.com/Kareadita/Kavita/releases"><img src="https://camo.githubusercontent.com/a30e853d811f000b49fd0f86021f50191f0f19c7b098ecfd77ccf9cdb6cc3fa0/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f4b61726561646974612f4b61766974612f746f74616c2e7376673f7374796c653d666c6174" alt="下载" data-canonical-src="https://img.shields.io/github/downloads/Kareadita/Kavita/total.svg?style=flat" style="max-width: 100%;"></a>
+<a href="https://hub.docker.com/r/jvmilazz0/kavita" rel="nofollow"><img src="https://camo.githubusercontent.com/975275768375723058b2d28ce5be1ed25ef4373dd0735112678647459ebbae3a/68747470733a2f2f696d672e736869656c64732e696f2f646f636b65722f70756c6c732f6a766d696c617a7a302f6b61766974612e737667" alt="Docker 拉取" data-canonical-src="https://img.shields.io/docker/pulls/jvmilazz0/kavita.svg" style="max-width: 100%;"></a>
+<a href="https://sonarcloud.io/dashboard?id=Kareadita_Kavita" rel="nofollow"><img src="https://camo.githubusercontent.com/e9297dab49a1c9d5c63a1c828bfa08562935c2f5919baf31a2c1ab2b95878c5d/68747470733a2f2f736f6e6172636c6f75642e696f2f6170692f70726f6a6563745f6261646765732f6d6561737572653f70726f6a6563743d4b61726561646974615f4b6176697461266d65747269633d7371616c655f726174696e67" alt="可维护性评级" data-canonical-src="https://sonarcloud.io/api/project_badges/measure?project=Kareadita_Kavita&amp;metric=sqale_rating" style="max-width: 100%;"></a>
+<a href="https://sonarcloud.io/dashboard?id=Kareadita_Kavita" rel="nofollow"><img src="https://camo.githubusercontent.com/e7c5ef5e44ca719cedd17ca246840cce596728a4c8ee94d6a4b66244a98505e0/68747470733a2f2f736f6e6172636c6f75642e696f2f6170692f70726f6a6563745f6261646765732f6d6561737572653f70726f6a6563743d4b61726561646974615f4b6176697461266d65747269633d73656375726974795f726174696e67" alt="安全等级" data-canonical-src="https://sonarcloud.io/api/project_badges/measure?project=Kareadita_Kavita&amp;metric=security_rating" style="max-width: 100%;"></a>
+<a href="#backers"><img src="https://camo.githubusercontent.com/bbaf21899f71094d6af14929a7cde6c4d466ad1f4ffacd1be8a45cca222ee0ff/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f6b61766974612f6261636b6572732f62616467652e737667" alt="Open Collective 的支持者" data-canonical-src="https://opencollective.com/kavita/backers/badge.svg" style="max-width: 100%;"></a>
+<a href="#sponsors"><img src="https://camo.githubusercontent.com/6bc7e56703f0d5d1a386e8b190020bd6bcbf41135c993999f9580c1a9ec86e78/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f6b61766974612f73706f6e736f72732f62616467652e737667" alt="开放集体的赞助商" data-canonical-src="https://opencollective.com/kavita/sponsors/badge.svg" style="max-width: 100%;"></a>
+<a href="https://hosted.weblate.org/engage/kavita/" rel="nofollow">
+<img src="https://camo.githubusercontent.com/a5743bbc6d8bd39ac7599316d4a8e76cc7c4e1fd2b4b0b2f7868d34207e8535e/68747470733a2f2f686f737465642e7765626c6174652e6f72672f776964676574732f6b61766974612f2d2f75692f7376672d62616467652e737667" alt="翻译状态" data-canonical-src="https://hosted.weblate.org/widgets/kavita/-/ui/svg-badge.svg" style="max-width: 100%;">
 </a>
-<img src="https://img.shields.io/endpoint?url=https://stats.kavitareader.com/api/ui/shield-badge"/>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7defe43377a2e39577375a5d2e80330ed112d81b057a1d7443766005f7c1a7d2/68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d68747470733a2f2f73746174732e6b61766974617265616465722e636f6d2f6170692f75692f736869656c642d6261646765"><img src="https://camo.githubusercontent.com/7defe43377a2e39577375a5d2e80330ed112d81b057a1d7443766005f7c1a7d2/68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d68747470733a2f2f73746174732e6b61766974617265616465722e636f6d2f6170692f75692f736869656c642d6261646765" data-canonical-src="https://img.shields.io/endpoint?url=https://stats.kavitareader.com/api/ui/shield-badge" style="max-width: 100%;"></a></p>
 </div>
-
-
-## What Kavita Provides
-- Serve up Manga/Webtoons/Comics (cbr, cbz, zip/rar/rar5, 7zip, raw images) and Books (epub, pdf)
-- First class responsive readers that work great on any device (phone, tablet, desktop)
-- Dark mode and customizable theming support
-- External metadata integration and scrobbling for read status, ratings, and reviews (available via Kavita+) 
-- Rich Metadata support with filtering and searching
-- Ways to group reading material: Collections, Reading Lists (CBL Import), Want to Read
-- Ability to manage users with rich Role-based management for age restrictions, abilities within the app, etc
-- Rich web readers supporting webtoon, continuous reading mode (continue without leaving the reader), virtual pages (epub), etc
-- Full Localization Support
-- Ability to customize your dashboard and side nav with smart filters, custom order and visibility toggles.
-
-
-## Support
-[![Discord](https://img.shields.io/badge/discord-chat-7289DA.svg?maxAge=60)](https://discord.gg/eczRp9eeem)
-[![GitHub - Bugs Only](https://img.shields.io/badge/github-issues-red.svg?maxAge=60)](https://github.com/Kareadita/Kavita/issues)
-
-## Demo
-If you want to try out Kavita, a demo is available:
-[https://demo.kavitareader.com/](https://demo.kavitareader.com/)
-```
-Username: demouser
+<h2 tabindex="-1" dir="auto"><a id="user-content-what-kavita-provides" class="anchor" aria-hidden="true" tabindex="-1" href="#what-kavita-provides"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">卡维塔提供什么</font></font></h2>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提供漫画/网络漫画/漫画（cbr、cbz、zip/rar/rar5、7zip、原始图像）和书籍（epub、pdf）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一流的响应式阅读器，适用于任何设备（手机、平板电脑、台式机）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">深色模式和可定制主题支持</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">外部元数据集成和读取状态、评级和评论的记录（通过 Kavita+ 提供）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">丰富的元数据支持，包括过滤和搜索</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对阅读材料进行分组的方式：收藏、阅读列表（CBL 导入）、想读</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">能够通过丰富的基于角色的年龄限制、应用程序内的能力等管理用户</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">丰富的网络阅读器，支持网络漫画、连续阅读模式（不离开阅读器继续阅读）、虚拟页面（epub）等</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">全面本地化支持</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">能够使用智能过滤器、自定义顺序和可见性切换来自定义仪表板和侧面导航。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-support" class="anchor" aria-hidden="true" tabindex="-1" href="#support"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持</font></font></h2>
+<p dir="auto"><a href="https://discord.gg/eczRp9eeem" rel="nofollow"><img src="https://camo.githubusercontent.com/8f97cc1c9a4acecb42c52706da9957576038491b5bd3e8fe3e71bf886937901b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646973636f72642d636861742d3732383944412e7376673f6d61784167653d3630" alt="不和谐" data-canonical-src="https://img.shields.io/badge/discord-chat-7289DA.svg?maxAge=60" style="max-width: 100%;"></a>
+<a href="https://github.com/Kareadita/Kavita/issues"><img src="https://camo.githubusercontent.com/a7cbc09da01c0451a7edebe29c0a0cac650641868976249d443f3811db191b94/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d6973737565732d7265642e7376673f6d61784167653d3630" alt="GitHub - 仅错误" data-canonical-src="https://img.shields.io/badge/github-issues-red.svg?maxAge=60" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-demo" class="anchor" aria-hidden="true" tabindex="-1" href="#demo"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">演示</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想尝试 Kavita，可以使用演示：
+ https: </font></font><a href="https://demo.kavitareader.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//demo.kavitareader.com/</font></font></a></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>Username: demouser
 Password: Demouser64
-```
-
-## Setup
-The easiest way to get started is to visit our Wiki which has up-to-date information on a variety of
-install methods and platforms.
-[https://wiki.kavitareader.com/en/install](https://wiki.kavitareader.com/en/install)
-
-## Feature Requests
-Got a great idea? Throw it up on [Discussions](https://github.com/Kareadita/Kavita/discussions/2529) or vote on another idea. Please check the [Project Board](https://github.com/Kareadita/Kavita/projects?type=classic) first for a list of planned features before you submit an idea.
-
-## Notice
-Kavita is being actively developed and should be considered beta software until the 1.0 release.
-Kavita may be subject to changes in how the platform functions as it is being built out toward the
-vision. You may lose data and have to restart. The Kavita team strives to avoid any data loss.
-
-## Donate
-If you like Kavita, have gotten good use out of it, or feel like you want to say thanks with a few bucks, feel free to donate. Money will go towards
-expenses related to Kavita. Back us through [OpenCollective](https://opencollective.com/Kavita#backer). You can also use [Paypal](https://www.paypal.com/paypalme/majora2007?locale.x=en_US), however your name will not show below. Kavita+ is also an 
-option which provides funding and you get a benefit.
-
-## Kavita+
-[Kavita+](https://wiki.kavitareader.com/en/kavita-plus) is a paid subscription that offers premium features that otherwise wouldn't be feasible to include in Kavita. It is ran and operated by majora2007, the creator and developer of Kavita.
-
-If you are interested, you can use the promo code `FIRSTTIME` for your initial signup for a 50% discount on the first month (2$). This can be thought of as donating to Kavita's development and getting some sweet features out of it.
-
-**If you already contribute via OpenCollective, please reach out to majora2007 for a provisioned license.**
-
-## Localization
-Thank you to [Weblate](https://hosted.weblate.org/engage/kavita/) who hosts our localization infrastructure pro-bono. If you want to see Kavita in your language, please help us localize.
-
-<a href="https://hosted.weblate.org/engage/kavita/">
-<img src="https://hosted.weblate.org/widget/kavita/horizontal-auto.svg" alt="Translation status" />
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="Username: demouser
+Password: Demouser64" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<h2 tabindex="-1" dir="auto"><a id="user-content-setup" class="anchor" aria-hidden="true" tabindex="-1" href="#setup"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设置</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最简单的入门方法是访问我们的 Wiki，其中包含有关各种安装方法和平台的最新信息。
+</font></font><a href="https://wiki.kavitareader.com/en/install" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://wiki.kavitareader.com/en/install</font></font></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-feature-requests" class="anchor" aria-hidden="true" tabindex="-1" href="#feature-requests"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">功能请求</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有个好主意吗？</font><font style="vertical-align: inherit;">将其提交到</font></font><a href="https://github.com/Kareadita/Kavita/discussions/2529" data-hovercard-type="discussion" data-hovercard-url="/Kareadita/Kavita/discussions/2529/hovercard"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讨论</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中或对另一个想法进行投票。</font><font style="vertical-align: inherit;">在提交想法之前，请先查看</font></font><a href="https://github.com/Kareadita/Kavita/projects?type=classic"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">项目板</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以获取计划功能的列表。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-notice" class="anchor" aria-hidden="true" tabindex="-1" href="#notice"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">注意</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kavita 正在积极开发中，在 1.0 版本发布之前应被视为测试版软件。</font><font style="vertical-align: inherit;">Kavita 在朝着愿景构建的过程中，平台的运作方式可能会发生变化。</font><font style="vertical-align: inherit;">您可能会丢失数据并必须重新启动。</font><font style="vertical-align: inherit;">Kavita 团队努力避免任何数据丢失。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-donate" class="anchor" aria-hidden="true" tabindex="-1" href="#donate"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">捐</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您喜欢 Kavita，并且已经很好地利用了它，或者您想用几块钱表示感谢，请随时捐赠。</font><font style="vertical-align: inherit;">资金将用于与卡维塔相关的费用。</font></font><a href="https://opencollective.com/Kavita#backer" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过OpenCollective</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持我们</font><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">您也可以使用</font></font><a href="https://www.paypal.com/paypalme/majora2007?locale.x=en_US" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Paypal</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，但您的名字不会显示在下面。</font><font style="vertical-align: inherit;">Kavita+ 也是一个提供资金的选项，您可以从中受益。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-kavita" class="anchor" aria-hidden="true" tabindex="-1" href="#kavita"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">卡维塔+</font></font></h2>
+<p dir="auto"><a href="https://wiki.kavitareader.com/en/kavita-plus" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kavita+</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是一项付费订阅，提供高级功能，否则这些功能无法包含在 Kavita 中。</font><font style="vertical-align: inherit;">它由 Kavita 的创建者和开发者majora2007 运行和运营。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您有兴趣，可以使用促销代码</font></font><code>FIRSTTIME</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">进行首次注册，第一个月可享受 50% 的折扣（2 美元）。</font><font style="vertical-align: inherit;">这可以被认为是对 Kavita 的开发的贡献，并从中获得了一些甜蜜的功能。</font></font></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您已经通过 OpenCollective 做出贡献，请联系majora2007 获取配置的许可证。</font></font></strong></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-localization" class="anchor" aria-hidden="true" tabindex="-1" href="#localization"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本土化</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">感谢</font></font><a href="https://hosted.weblate.org/engage/kavita/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Weblate</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">无偿托管我们的本地化基础设施。</font><font style="vertical-align: inherit;">如果您想以您的语言查看 Kavita，请帮助我们进行本地化。</font></font></p>
+<a href="https://hosted.weblate.org/engage/kavita/" rel="nofollow">
+<img src="https://camo.githubusercontent.com/d962ac9d1c999f2f5dcc3985f36ef4d726a513771e062380d23619ea3adc485e/68747470733a2f2f686f737465642e7765626c6174652e6f72672f7769646765742f6b61766974612f686f72697a6f6e74616c2d6175746f2e737667" alt="翻译状态" data-canonical-src="https://hosted.weblate.org/widget/kavita/horizontal-auto.svg" style="max-width: 100%;">
 </a>
-
-## PikaPods
-If you are looking to try your hand at self-hosting but lack the machine, [PikaPods](https://www.pikapods.com/pods?run=kavita) is a great service that 
-allows you to easily spin up a server. 20% of app revenues are contributed back to Kavita via OpenCollective.
-
-
-## Contributors
-
-This project exists thanks to all the people who contribute and downstream library maintainers. [Contribute](CONTRIBUTING.md).
-<a href="https://github.com/Kareadita/Kavita/graphs/contributors">
-<img src="https://opencollective.com/kavita/contributors.svg?width=890&button=false&avatarHeight=42" />
-</a>
-
-
-## Backers
-
-Thank you to all our backers! 🙏 [Become a backer](https://opencollective.com/Kavita#backer)
-
-<img src="https://opencollective.com/kavita/backers.svg?width=890&avatarHeight=42"></a>
-
-## Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [Become a sponsor](https://opencollective.com/Kavita#sponsor)
-
-<img src="https://opencollective.com/Kavita/sponsors.svg?width=890"></a>
-
-## Mega Sponsors
-<img src="https://opencollective.com/Kavita/tiers/mega-sponsor.svg?width=890"></a>
-
-## JetBrains
-Thank you to [<img src="/Logo/jetbrains.svg" alt="" width="32"> JetBrains](http://www.jetbrains.com/) for providing us with free licenses to their great tools.
-
-* [<img src="/Logo/rider.svg" alt="" width="32"> Rider](http://www.jetbrains.com/rider/)
-
-### License
-
-* [GNU GPL v3](http://www.gnu.org/licenses/gpl.html)
-* Copyright 2020-2024
-
+<h2 tabindex="-1" dir="auto"><a id="user-content-pikapods" class="anchor" aria-hidden="true" tabindex="-1" href="#pikapods"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">鼠兔豆荚</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想尝试自托管但缺乏机器，</font></font><a href="https://www.pikapods.com/pods?run=kavita" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PikaPods</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是一项很棒的服务，可以让您轻松启动服务器。</font><font style="vertical-align: inherit;">20% 的应用收入通过 OpenCollective 回馈给 Kavita。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-contributors" class="anchor" aria-hidden="true" tabindex="-1" href="#contributors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献者</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这个项目的存在要感谢所有贡献者和下游库维护者。</font></font><a href="/Kareadita/Kavita/blob/develop/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。
+</font></font><a href="https://github.com/Kareadita/Kavita/graphs/contributors">
+<img src="https://camo.githubusercontent.com/d792b20a1af8ada275a36e20fbdff2a4c2c6ad17cbd2a6552a33f5b0ded8b4e9/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f6b61766974612f636f6e7472696275746f72732e7376673f77696474683d38393026627574746f6e3d66616c7365266176617461724865696768743d3432" data-canonical-src="https://opencollective.com/kavita/contributors.svg?width=890&amp;button=false&amp;avatarHeight=42" style="max-width: 100%;">
+</a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-backers" class="anchor" aria-hidden="true" tabindex="-1" href="#backers"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持者</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">感谢我们所有的支持者！</font><font style="vertical-align: inherit;">🙏</font></font><a href="https://opencollective.com/Kavita#backer" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">成为支持者</font></font></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5e6a6c547c32d29ab65f72250510fc4e0aa552c74229d7f05306e6a589c7496c/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f6b61766974612f6261636b6572732e7376673f77696474683d383930266176617461724865696768743d3432"><img src="https://camo.githubusercontent.com/5e6a6c547c32d29ab65f72250510fc4e0aa552c74229d7f05306e6a589c7496c/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f6b61766974612f6261636b6572732e7376673f77696474683d383930266176617461724865696768743d3432" data-canonical-src="https://opencollective.com/kavita/backers.svg?width=890&amp;avatarHeight=42" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-sponsors" class="anchor" aria-hidden="true" tabindex="-1" href="#sponsors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">赞助商</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">成为赞助商来支持该项目。</font><font style="vertical-align: inherit;">您的徽标将显示在此处，并带有指向您网站的链接。</font></font><a href="https://opencollective.com/Kavita#sponsor" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">成为赞助商</font></font></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c39cfadbff33063b0d98108d8338b3d753d1f9b21cd4113175e653af84ccb434/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f4b61766974612f73706f6e736f72732e7376673f77696474683d383930"><img src="https://camo.githubusercontent.com/c39cfadbff33063b0d98108d8338b3d753d1f9b21cd4113175e653af84ccb434/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f4b61766974612f73706f6e736f72732e7376673f77696474683d383930" data-canonical-src="https://opencollective.com/Kavita/sponsors.svg?width=890" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-mega-sponsors" class="anchor" aria-hidden="true" tabindex="-1" href="#mega-sponsors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">超级赞助商</font></font></h2>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ebee1cf7c07cb0eea0de85236b8e048de26a2d2dc08eeeca05dd0f2b8d37e4bf/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f4b61766974612f74696572732f6d6567612d73706f6e736f722e7376673f77696474683d383930"><img src="https://camo.githubusercontent.com/ebee1cf7c07cb0eea0de85236b8e048de26a2d2dc08eeeca05dd0f2b8d37e4bf/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f4b61766974612f74696572732f6d6567612d73706f6e736f722e7376673f77696474683d383930" data-canonical-src="https://opencollective.com/Kavita/tiers/mega-sponsor.svg?width=890" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-jetbrains" class="anchor" aria-hidden="true" tabindex="-1" href="#jetbrains"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">捷脑公司</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">感谢</font></font><a href="http://www.jetbrains.com/" rel="nofollow"><img src="/Kareadita/Kavita/raw/develop/Logo/jetbrains.svg" alt="" width="32" style="max-width: 100%;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JetBrains</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">向我们提供其出色工具的免费许可证。</font></font></p>
+<ul dir="auto">
+<li><a href="http://www.jetbrains.com/rider/" rel="nofollow"><img src="/Kareadita/Kavita/raw/develop/Logo/rider.svg" alt="" width="32" style="max-width: 100%;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">骑士</font></font></a></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-license" class="anchor" aria-hidden="true" tabindex="-1" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h3>
+<ul dir="auto">
+<li><a href="http://www.gnu.org/licenses/gpl.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GNU GPL v3</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">版权所有 2020-2024</font></font></li>
+</ul>
+</article></div>
